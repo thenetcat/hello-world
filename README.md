@@ -1,2 +1,7 @@
 # hello-world
-My first repository on GitHub
+
+Hello. This is the first commit of the README file.
+
+
+
+cos
